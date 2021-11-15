@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lessmore92/php-erc20": "^1.0"
+    }
+}
